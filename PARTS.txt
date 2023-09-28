@@ -1,0 +1,39 @@
+JER??
+
+intro
+Please Choose Any Option To login
+   1.Student 
+	 1.New Student  
+		-----Enter Student details----                     
+     2.Existing student     
+          1.View BookList            
+          2.Search for a Book         
+          3.Issue Books              
+          4.Return Books              
+          5.Go to main menu          
+          6.Close Application
+
+CHELLE??
+  2.Librarian                           
+
+ 1.Update Student Records
+1. CREATE STUDENT RECORD               
+2. DISPLAY ALL STUDENTS RECORD          
+3. DISPLAY SPECIFIC STUDENT RECORD      
+4. MODIFY STUDENT RECORD                
+5. DELETE STUDENT RECORD                
+6. to GO BACK TO MAIN MENU
+
+MAVI
+2.Update Book Records
+1. CREATE BOOKS                    
+2. DISPLAY ALL BOOKS                 
+3. DISPLAY SPECIFIC BOOK         
+4. MODIFY BOOKS                  
+5. DELETE BOOKS                  
+6. to GO BACK TO MAIN MENU
+
+  3.Close Application
+
+MONI??
+TEXT FILE AND FILE HANDLING
